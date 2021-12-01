@@ -10,6 +10,6 @@ We're a smart & determined roleplay community here on Minecraft to provide the b
 We'd be honoured to provide you with an experience to remember! Join today, IP: MC.ROLEPLAYHUB.NET
 
 # Socials
-[WEBSITE](https://roleplayhub.net) | [DISCORD](https://discord.gg/roleplayhub) | [YOUTUBE](https://youtube.com/c/roleplayhub) | [TWITTER](https://twitter.com/roleplayhubmc)
+**[WEBSITE](https://roleplayhub.net) | [DISCORD](https://discord.gg/roleplayhub) | [YOUTUBE](https://youtube.com/c/roleplayhub) | [TWITTER](https://twitter.com/roleplayhubmc)**
 
 © ROLEPLAY HUB 2020
