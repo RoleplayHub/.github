@@ -9,7 +9,7 @@ We're a smart & determined roleplay community here on Minecraft to provide the b
 
 We'd be honoured to provide you with an experience to remember! Join today, IP: `MC.ROLEPLAYHUB.NET`
 
-# SchoolRP Development
+# Development
 By searching through our GitHub, we're sure you're interested in our server's development! Check out our [Trello board](https://trello.com/b/gQMHdGrM) to find out what we're currently working on. Or if you have your own suggestions, head over to our forums and submit a [feedback](https://schoolrp.net/forums/feedback/) thread for our staff team to review. 
 
 # Socials
